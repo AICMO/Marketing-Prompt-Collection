@@ -8,7 +8,7 @@ This module is the execution arm of the marketing department, designed to automa
 
 ## Target Outcomes
 
-- **10x Content Output**: A system engineered to increase your content production by 113% or more, based on proven AI case studies.
+- **10x Quality Content Output**: A system engineered to increase your content production by 113% or more, based on proven AI case studies.
 
 - **90% Cost Reduction**: Drastically reduce the cost of content creation by automating the production of SEO articles, video scripts, and social media campaigns.
 
