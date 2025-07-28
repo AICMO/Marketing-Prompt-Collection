@@ -15,6 +15,7 @@ Don’t drown in the AI wave - ride it.
 
 - **[AiCarma](https://aicarma.com)** – Daily *Visibility Score* and weekly email reports showing how Google AI Overviews, ChatGPT & Perplexity talk about your brand; 5-minute setup and flat $29 / mo after a 14-day trial.
 - **[AiCMO: GEO](https://getaicmo.com)** – Your customers ask AI. We make sure you're the answer.
+- **[AiCMO: GEO - Community Edition](https://getaicmo.com/community-edition)** – Your customers ask AI. Make sure you're the answer with free version of AiCMO: GEO.
 - **[AI Rank Tracker](https://airank.dejan.ai)** – DejanSEO’s experimental tool mining language-association graphs to show which entities LLMs most connect to your brand.
 - **[Am I on AI?](https://amionai.com)** – Simple checker that shows how often ChatGPT recommends your business and offers priority fixes; weekly trend emails.  
 - **[AppearOnAI](https://appearonai.com)** – Action-oriented audit + playbook to boost site visibility inside ChatGPT, Claude & Gemini answers.  
@@ -32,6 +33,7 @@ Don’t drown in the AI wave - ride it.
 - **[Lebesgue](https://lebesgue.io)** - Transform Your E-commerce Marketing with AI-Powered Insights.
 - **[LLMO Metrics](https://llmometrics.com)** – Scores visibility, then uses AI to prioritise the tweaks most likely to boost mentions in ChatGPT, Gemini & Copilot.  
 - **[LLMO Metrics](https://llmrefs.com/)** – Increase your brand’s visibility in AI search. $79/mo.
+- **[Mention](https://mention.com)** - Monitor the web, analyze online conversations, and manage your social media: all with one powerful tool. $499/mo.
 - **[Mesha](https://lebesgue.io)** - Why struggle with slow creative cycles and expensive CMOs when your campaigns demand immediate results? Mesha's AI CMO instantly creates, tests, and scales high-performing ads. Proven strategies, data-backed creatives, ready-to-launch in minutes.
 - **[ModelMonitor](https://modelmonitor.ai/brands/activity-monitor)** – Monitors mentions across 50+ models (OpenAI, Anthropic, Grok, etc.); API + webhooks for reputation teams.  
 - **[Otterly.AI](https://otterly.ai)** – Real-time dashboard for Google AI Overviews, ChatGPT & Perplexity; tracks citations, sentiment and prompt-level share of voice. Starts at $29 / mo after a 7-day trial.
