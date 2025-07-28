@@ -1,6 +1,31 @@
-# Universal Prompt to Identify a Primary Ideal Customer Profile (ICP)
+# ICP Identification Engine - Find Your Perfect Customer
 
-You can copy and paste this entire template, filling in the [--- INPUT YOUR PRODUCT INFORMATION HERE ---] section with your specific details.
+**Difficulty:** Beginner | **Time:** 15 min | **Tags:** strategy, b2b, research, customer-analysis, product-marketing
+
+## Overview
+Systematically identify your most promising Ideal Customer Profiles using data-driven analysis. This framework helps you focus marketing efforts on customers most likely to buy and succeed with your product.
+
+## Quick Copy-Paste Version
+
+```
+Analyze my product and identify the top 3 ideal customer profiles:
+
+Product: [Your product name and brief description]
+Core Problem: [Main problem your product solves]  
+Price Point: [Your pricing model and cost]
+Geographic Market: [Where you sell - US, EU, Global, etc.]
+
+For each ICP, provide:
+1. Specific customer description (industry, company size, role)
+2. Their biggest pain point related to your solution
+3. Why they'd buy your product over alternatives
+4. Where to find and reach them
+5. One-sentence marketing message that would grab their attention
+
+Focus on segments with urgent pain, budget to pay, and ability to make decisions quickly.
+```
+
+## Advanced Customizable Version
 
 ```markdown
 
@@ -78,5 +103,65 @@ Supporting Evidence & Reasoning: Justify why this is a top ICP, referencing your
 A "Hook" for Marketing: Suggest a single, compelling marketing message or question that would immediately grab this ICP's attention.
 
 The final output should be a clear, structured report presenting the Top N ICPs as your primary, data-driven recommendation.
-
 ```
+
+## Example Input/Output
+
+**Input Example:**
+- Product: ProjectFlow - AI-powered project management tool for remote teams
+- Core Problem: Remote teams struggle with task visibility and deadline tracking
+- Price Point: $15/user/month SaaS subscription  
+- Geographic Market: US and Canada
+
+**Output Example:**
+
+**ICP #1: Growing Tech Startups (25-100 employees)**
+- **Description**: Series A/B SaaS companies with distributed engineering teams
+- **Primary Pain**: Missing deadlines due to poor visibility into team workload
+- **Buying Driver**: Need to scale without hiring expensive project managers
+- **Where to Find**: AngelList, TechCrunch startup lists, Y Combinator portfolio
+- **Marketing Hook**: "Scale your startup's delivery without hiring expensive PMs"
+
+**ICP #2: Digital Marketing Agencies (10-50 employees)**  
+- **Description**: Creative agencies managing multiple client projects simultaneously
+- **Primary Pain**: Client complaints about missed deadlines and scope creep
+- **Buying Driver**: Client retention depends on reliable project delivery
+- **Where to Find**: Agency directories, LinkedIn groups, marketing conferences
+- **Marketing Hook**: "Never miss a client deadline again with automated tracking"
+
+## Success Metrics
+- **ICP Validation**: 70%+ of prospects match your identified profiles
+- **Conversion Rate**: 2x higher than generic targeting
+- **Sales Cycle**: 25% shorter due to better fit
+- **Customer LTV**: 3x higher for on-target ICPs
+
+## Related Prompts
+- [Value Proposition Canvas](../Positioning-&-Messaging/Value-Proposition-Canvas.md) - Create value props for each ICP
+- [Competitive Positioning](../Positioning-&-Messaging/Competitive-Positioning-Framework.md) - Position against competitors per ICP
+- [Go-to-Market Strategy](../Go-To-Market-Strategy/Lean-Go-to-Market-GTM.md) - Build GTM plan around ICPs
+
+## Integration Tips
+- **HubSpot**: Create separate lead scoring models for each ICP
+- **Salesforce**: Set up ICP-specific sales processes and territories
+- **LinkedIn Sales Navigator**: Build targeted prospect lists using ICP criteria
+- **Google Ads**: Create audience segments based on ICP characteristics
+
+## Troubleshooting
+
+**Common Issues:**
+
+**Problem**: ICPs are too broad or generic
+**Solution**: Add more specific constraints like company size, tech stack, or geographic region to narrow focus
+
+**Problem**: All ICPs look similar  
+**Solution**: Ask the AI to identify ICPs from different industries, company sizes, or use cases
+
+**Problem**: ICPs don't have budget for the solution
+**Solution**: Include budget qualification in your prompt: "Only identify ICPs with budgets exceeding $X annually"
+
+**Problem**: Can't find or reach the identified ICPs
+**Solution**: Ask for additional research on "Where do these ICPs consume content and make purchasing decisions?"
+
+## Version History
+- v2.0: Added quick copy-paste version, examples, and integration tips
+- v1.0: Original comprehensive ICP framework
